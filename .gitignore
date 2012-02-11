@@ -1,0 +1,5 @@
+Makefile.gyp
+binding.Makefile
+*.target.gyp.mk
+gyp-mac-tool
+out/
